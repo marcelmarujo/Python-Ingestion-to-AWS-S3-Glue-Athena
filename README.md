@@ -5,5 +5,5 @@ Projeto para ingestão e manipulação de dados no ambiente AWS.
 
 Depois, manipulação no AWS:
  - Adição no S3 bucket
- - Depois uso do Glue Crawler para criar uma tabela 
+ - Depois uso do Glue Crawler para criar uma tabela no Athena
  - Fim: Consulta dos dados no AWS Athena.
